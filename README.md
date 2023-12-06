@@ -12,4 +12,10 @@ To run:
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Working bot available at - https://discord.com/api/oauth2/authorize?client_id=1181541220976177222&permissions=8724152320&scope=bot
+
+To make your own bot, you need the following permissions
+ 
+- Manage Nicknames
+- Manage Events
+
